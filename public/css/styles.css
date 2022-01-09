@@ -1,0 +1,132 @@
+body {
+  background-color: #e3dcdc;
+}
+
+.centered {
+  padding-top: 200px;
+  text-align: center;
+}
+
+.secret-text {
+  text-align: center;
+  font-size: 2rem;
+  color: #fff;
+  background-color: #000;
+}
+
+/*  */
+.searchbtn {
+  background: #c3aed6;
+  background-image: -webkit-linear-gradient(top, #c3aed6, #c3aed6);
+  background-image: -moz-linear-gradient(top, #c3aed6, #c3aed6);
+  background-image: -ms-linear-gradient(top, #c3aed6, #c3aed6);
+  background-image: -o-linear-gradient(top, #c3aed6, #c3aed6);
+  background-image: linear-gradient(to bottom, #c3aed6, #c3aed6);
+  border: 0;
+  border-radius: 5px;
+  color: #ffffff;
+  font-family: "Muli", sans-serif;
+  font-size: 15px;
+  font-weight: 100;
+  padding: 5px;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+  margin: 0;
+}
+.searchbtn:hover {
+  background: #efbbcf;
+  color: black;
+}
+.input-header[type="text"] {
+  text-align: center;
+  height: 60px;
+  top: 10px;
+  border: none;
+  background: transparent;
+  font-size: 20px;
+  font-weight: 200;
+  width: 313px;
+}
+
+.input-header[type="text"]:focus {
+  outline: none;
+  box-shadow: inset 0 -3px #efbbcf;
+}
+/* nav bar */
+.navbar {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+/* jumborton */
+.jumbotron {
+  background-color: #e3dcdc;
+}
+
+/* footer */
+.bottom-container {
+  background-color: #e3dcdc;
+  padding: 30px 0 10px;
+  text-align: center;
+}
+.footer-link {
+  color: black;
+  font-family: "Muli", sans-serif;
+  margin: 50px 20px;
+  text-decoration: none;
+  font-weight: 500;
+}
+.footer-link:hover {
+  color: #8675a9;
+  margin: 50 px 20px;
+  font-weight: 700;
+}
+#copyright {
+  color: #8675a9;
+  font-size: 0.1 em;
+  font-weight: 500;
+}
+
+/* mask */
+.fa-mask {
+  color: #8675a9;
+}
+
+.about-section {
+  padding: 50px;
+  text-align: center;
+  background-color: #474e5d;
+  color: white;
+}
+.about-content {
+  text-align: center;
+}
+.container {
+  padding: 0 16px;
+}
+
+.image {
+  max-width: 50%;
+  max-height: auto;
+}
+.contact-button {
+  background: #c3aed6;
+  background-image: -webkit-linear-gradient(top, #c3aed6, #c3aed6);
+  background-image: -moz-linear-gradient(top, #c3aed6, #c3aed6);
+  background-image: -ms-linear-gradient(top, #c3aed6, #c3aed6);
+  background-image: -o-linear-gradient(top, #c3aed6, #c3aed6);
+  background-image: linear-gradient(to bottom, #c3aed6, #c3aed6);
+  border: 0;
+  border-radius: 5px;
+  color: #ffffff;
+  font-family: "Muli", sans-serif;
+  font-size: 15px;
+  font-weight: 100;
+  padding: 5px;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+  margin: 0;
+}
